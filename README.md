@@ -1,6 +1,5 @@
-<p align="center"> i like interacting with people and totally ok with c+h. dont be shy 
 <p align="center">
-  <img src="https://i.imgur.com/p2zq2zk.png" alt="image">
+  <img src="./banner.png" alt="Banner" width="100%">
 </p>
 <p align="center">
 
